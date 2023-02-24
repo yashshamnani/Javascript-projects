@@ -49,7 +49,7 @@
 
 ## 04. Password Generator
 
-###  **Live URL :**  [Visit Now](https://color-changer-js-yashshamnani.netlify.app/)🚀
+###  **Live URL :**  [Visit Now](https://password-generator-js-yashshamnani.netlify.app/)🚀
 
 <br>
 
