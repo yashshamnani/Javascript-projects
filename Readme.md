@@ -95,3 +95,8 @@
 <br>
 
 ![screenshot](./07QRCodeGenerator%20-%20API/Image/Screenshot%20(25).png)
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [Yash Shamnani](https://www.linkedin.com/in/yash-shamnani-a76a34203/)
+- **Email** - [shyamnaniyash@gmail.com]()
